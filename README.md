@@ -35,9 +35,4 @@ Language barriers often prevent smooth communication. This project solves that p
    ```bash
    python app.py
    ```
-   Then open `http://127.0.0.1:5000` in your browser.  
-
-3. Generate the PPT (if needed):  
-   ```bash
-   python make_ppt.py
-   ```
+   Then open `http://127.0.0.1:5000` in your browser.
